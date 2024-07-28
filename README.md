@@ -1,4 +1,6 @@
 # spam-prediction
+![output](https://github.com/user-attachments/assets/c3693218-7452-4e5b-a170-f1f159873603)
+
 # SMS Spam Classifier Project Report
 ## Introduction
 This project aims to develop a spam classifier using Natural Language Processing (NLP) and Machine Learning techniques. The goal is to accurately differentiate between spam and ham (non-spam) messages in the SMS text data.
